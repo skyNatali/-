@@ -35,7 +35,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"email\": \"nanalu1@mail.ru\",\r\n  \"password\": \"Nana0606@!\"\r\n}",
+					"raw": "{\r\n  \"email\": \"*******@mail.ru\",\r\n  \"password\": \"******\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
